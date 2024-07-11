@@ -1,4 +1,9 @@
 # ADHD Stream Helper
+
+### What do I need?
+- ADHD Stream Helper.sd
+- Images (it works without this but ui doesnt like it)
+
 ### What does this do?
 Select or input a game, then click the magnifying glass icon to use AI to generate:
 - Twitch stream title
