@@ -1,7 +1,7 @@
 <h1 align="center">Trogan2000's
 ADHD Collection For </a> <a href="https://streamer.bot/"> Streamer.Bot</h1>
 <p align="center">
-    Welcome to my <a href="https://streamer.bot/">Streamer.Bot</a> Collection. Inside this project, you will find Actions and OBS Widgets that I use and create on my <a href="https://twitch.tv/trogan2000">Livestreams</a>.
+    Welcome to my <a href="https://streamer.bot/">Streamer.Bot</a> Collection. Inside this project, you will find Actions and OBS Widgets that I use and create on my <a href="https://twitch.tv/trogan2000">Twitch Stream</a>.
 </p>
 
 # Usage
