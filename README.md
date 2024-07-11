@@ -4,11 +4,10 @@ ADHD Collection For </a> <a href="https://streamer.bot/"> Streamer.Bot</h1>
     Welcome to my <a href="https://streamer.bot/">Streamer.Bot</a> Collection. Inside this project, you will find Stuff that I use on my <a href="https://twitch.tv/trogan2000">Twitch Stream</a>.
 </p>
 
-# Usage
-Download <a href="https://github.com/Trogan2000/Stream-Helper/tree/ADHD-Stream-Helper">ADHD Stream Helper</a>. and add the adhd stream helper.sb you need to your <a href="https://streamer.bot/">Streamer.Bot</a>. DONE (Easy right?)
-
 ## Content
-ADHD Stream Helper: an ai enabled title creator for twitch and tiktok  (youtube to come)
-Question Bot (name pending): Crazy ai chatbot that asks questions based on topics
+- <a href="https://github.com/Trogan2000/Stream-Helper/tree/ADHD-Stream-Helper">ADHD Stream Helper</a>: an AI enabled title creator for twitch and tiktok  (youtube to come)
+- <a href="https://github.com/Trogan2000/Stream-Helper/tree/Chat-Questions">Chat Questions</a>: Crazy AI chatbot that asks questions based on topics you pregive it
 
 I hope you find this stuff useful.
+
+Feedback is always welcome!
